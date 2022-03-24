@@ -1,0 +1,1 @@
+instance_type="p4d.24xlarge"
